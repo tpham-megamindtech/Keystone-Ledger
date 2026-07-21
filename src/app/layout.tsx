@@ -1,0 +1,41 @@
+import type { Metadata } from "next";
+import { Public_Sans, Source_Serif_4 } from "next/font/google";
+import Header from "@/components/Header";
+import Footer from "@/components/Footer";
+import "./globals.css";
+
+const publicSans = Public_Sans({
+  variable: "--font-public-sans",
+  subsets: ["latin"],
+});
+
+const sourceSerif = Source_Serif_4({
+  variable: "--font-source-serif",
+  subsets: ["latin"],
+  weight: ["500", "600", "700"],
+});
+
+export const metadata: Metadata = {
+  title: "Keystone Ledger — Pennsylvania Business & Community News",
+  description:
+    "Keystone Ledger covers finance, business leadership, wellness, education, and healthcare across Pennsylvania.",
+};
+
+export default function RootLayout({
+  children,
+}: Readonly<{
+  children: React.ReactNode;
+}>) {
+  return (
+    <html
+      lang="en"
+      className={`${publicSans.variable} ${sourceSerif.variable} h-full antialiased`}
+    >
+      <body className="min-h-full flex flex-col bg-background text-foreground">
+        <Header />
+        <main className="flex-1">{children}</main>
+        <Footer />
+      </body>
+    </html>
+  );
+}
