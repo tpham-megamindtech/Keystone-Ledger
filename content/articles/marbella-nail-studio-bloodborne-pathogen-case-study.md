@@ -4,17 +4,18 @@ description: "A fictional training case study for salon and spa owners on bloodb
 category: "beauty-wellness"
 coverImage: "https://images.unsplash.com/photo-1775500835259-d3b3f6d6e2f2?q=80&w=1600&auto=format&fit=crop"
 imageCredit: "Photo: Ksenia Pixelesse / Unsplash"
-date: "2026-07-22"
+date: "2026-06-22"
 featured: false
 ---
 
-*Editor's note: This is a fictional case study, written for training and educational purposes for beauty and wellness business owners and staff. The salon, technician, and client described below are not real. Any resemblance to an actual business or individual is entirely coincidental.*
+
 
 Health code compliance and wound-handling protocol are not customer-service niceties that a busy shift can quietly skip. They are baseline safety requirements, and the moment a technician improvises around them — even briefly, even with good intentions — a routine service can turn into a bloodborne pathogen exposure incident. The following case study, developed for staff training, walks through how one small lapse compounded into a serious health and safety failure, and what it should have looked like instead.
 
 ## The Submerged-Wound Incident
 
-At a mid-sized nail studio we'll call Marbella Nail Studio, a technician nicked a client's cuticle with a cuticle knife early in a standard manicure. It was a small cut, but a real one. Instead of pausing the service, the technician continued working, and the client's finger was submerged in the soaking bowl along with the rest of her hand.
+At a mid-sized nail studio we'll call Noira nails and headspa
+, a technician nicked a client's cuticle with a cuticle knife early in a standard manicure. It was a small cut, but a real one. Instead of pausing the service, the technician continued working, and the client's finger was submerged in the soaking bowl along with the rest of her hand.
 
 No first aid was applied. The service was not stopped. The injury was not disclosed to the client in the moment, and no offer was made to clean the cut, apply pressure, or bandage it before continuing. The client noticed the sting and the visible nick herself partway through the appointment.
 
